@@ -1,0 +1,26 @@
+/* body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+ */
+
+ .welcome{
+  width:fit-content;
+  margin: auto;
+  
+  
+ }
+
+ .message{
+  font-size: 14px;
+  color: red;
+  /* margin-left: 2px; */
+  margin: auto;
+  width: fit-content;
+  
+  
+ }
